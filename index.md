@@ -96,19 +96,19 @@ body {
   <div class="leftcolumn">
     <div class="card">
       <h2>Who was Genghis Khan?</h2>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/YuanEmperorAlbumGenghisPortrait.jpg" style="height:200px;"></img>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/YuanEmperorAlbumGenghisPortrait.jpg" style="height:200px;">
       <p>A brief discription of Genghis Khan</p>
       <p>Genghis Khan (also known as Chinghis Khaan in Mongolia) was the founder and great khan of the Mongol empire that dominated eurasia in the 13th century. Genghis Khan rose from humble beginings on the brutal Mongolian steppe to world domination, and became one of the greatest military commanders in world history. Modern Mongolians consider him the father of their nation.</p>
     </div>
     <div class="card">
       <h2>What is Mongolia?</h2>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg" style="height:200px;"></img>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg" style="height:200px;">
       <p>General imformation about the country of Mongolia.</p>
       <p>Mongolia is a landlocked country in east Asia, known for its nomadic culture, beautiful landscape and barbarian empires. Mongolia is the 18th largest country in the world, with a population around 3 million people (45% of its population lives in Mongolia's captial Ulanbaatar.). Mongolia is very rich in natural beauty, minerals, and intresting culture. The country of Mongolia has a very diverse climate and natural enviroment with, mountains and siberian forests to the north, the gobi desert to the south, and the Altai mountains to the west. People have lived in what is modern day Mongolia since the upper paleolithic times, and has been the center of many great nomadic confederations such as, the Xiongnu, Kitans, Sythians, and eventually the great great Mongol empire ruled by Genghis Khan.</p>
     </div>
     <div class="card">
       <h2>Why is Genghis Khan great?</h2>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Bust_of_Genghis_Khan_in_Mongolia.jpg" style="height:200px;"></img>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Bust_of_Genghis_Khan_in_Mongolia.jpg" style="height:200px;">
       <p>Why the Khan was special.</p>
       <p>Genghis Khan was one of the most legendary people in world history. Some people will call him a murderer, a rapist, and a generally evil person. But thats only half the story, Genghis Khan killed millions of people and dystroyed civilizations, and also did great things for his people. For example, if the Khan was so bad why did he abolish torture.</p>
     </div>
@@ -121,9 +121,9 @@ body {
     </div>
     <div class="card">
       <h3>Sugested pages</h3>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Siège_de_Beijing_%281213-1214%29.jpeg" style="height: 175px; width: 175px"></img>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Siège_de_Beijing_%281213-1214%29.jpeg" style="height: 175px; width: 175px">
       <a href="http://localhost:8080/about_the_khan/">Learn about the Khan.</a>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Arkhangai_Aimag6.JPG" style="height:175px; width: 175px;"></img>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Arkhangai_Aimag6.JPG" style="height:175px; width: 175px;">
       <a href="http://matthewcordero6666.github.io/genghis.com/mongolia">Learn about Mongolia.</a>
       <a href="http://matthewcordero6666.github.io/genghis.com/about">About genghis.com</a>
     </div>
