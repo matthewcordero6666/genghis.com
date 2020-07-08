@@ -4,7 +4,6 @@
 <style>
 * {
   box-sizing: border-box;
-  background-image: url('https://www.ancient.eu/uploads/images/11455.jpg?v=1573228327’);
 }
 body {
   font-family: Arial;
