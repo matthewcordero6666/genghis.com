@@ -97,7 +97,7 @@ body {
     <div class="card">
       <h2>mongol khans and generals</h2>
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Sacking_of_Suzdal_by_Batu_Khan.jpg" style="height:200px;">
-      <p>Click on the link below to hear the inspiring story of the rise greatest emperor that ever lived</p>
+      <p>What Khan was Genghis's sucessor to the throne, find out by clicking the link below</p>
       <a href="http://matthewcordero6666.github.io/genghis.com/mongol_empire/mongol_khans">mongol khans</a>
     </div>
     <div class="card">
