@@ -103,7 +103,7 @@ body {
     <div class="card">
       <h2>Facts about the mongol empire</h2>
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Karakorum_Silver_Tree.jpg" style="height:200px;">
-      <p>Mongol empire adminstration trade and society/p>
+      <p>Mongol empire adminstration trade and society</p>
       <a href='http://matthewcordero6666.github.io/genghis.com/mongol_empire/mongol_empire_facts'>mongol empire fun facts</a>
     </div>
     <div class="card">
